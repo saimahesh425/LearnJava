@@ -19,9 +19,7 @@ public class helloWorld {
         byte z = (byte)b;
         System.out.println(z);
         byte b1=5,b2=6;
-
-byte b3=(byte)(b1+b2);
-
-System.out.println(b3);
+        byte b3=(byte)(b1+b2);
+        System.out.println(b3);
     }
 }
