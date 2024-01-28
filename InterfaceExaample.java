@@ -1,4 +1,4 @@
-package out.production.Java;
+
 
 public class InterfaceExaample {
     
