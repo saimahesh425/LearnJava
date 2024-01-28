@@ -1,5 +1,3 @@
-
-
 public class InterfaceExaample {
     
     public static void main(String args[]){
